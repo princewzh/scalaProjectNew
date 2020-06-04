@@ -1,0 +1,2 @@
+# scalaProjectNew
+Learn scala
